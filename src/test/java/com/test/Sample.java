@@ -40,6 +40,7 @@ public class Sample {
 			System.out.print(text +" ");
 		}
 		
+		Thread.sleep(3000);
 		driver.quit();
 		
 		
